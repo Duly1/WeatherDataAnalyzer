@@ -2,18 +2,20 @@
 A Java application to analyze weather data using modern Java features.
 
 Features
-✅ Reads weather data from weatherdata.csv
-✅ Computes:
+Reads weather data from weatherdata.csv
+
+Computes:
 Average temperature per month
 Days above a given temperature
 Count of rainy days
-✅ Uses:
+
+Uses:
 Java Records
 Enhanced switch statements
 Lambdas & Streams
 Text Blocks for clean output
 
- How to Run
+How to Run
 Open IntelliJ and load the project.
 
 Run WeatherDataAnalyzer.java.
